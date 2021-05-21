@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @premsai2030
 - 👀 I’m interested in creating new things.
-- 🌱 I’m currently learning React Js.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React Js & Express Js.
 - 📫 How to reach me (Msg me anytime in telegram: +91-7893601589)
 
 <!---
